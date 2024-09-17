@@ -1,1 +1,1 @@
-# Desenvolvimento-rapido-de-aplica-es-em-Python
+Projeto utilizado como forma de avaliação da disciplina Desenvolvimento rapido de aplicações em Python da Faculdade Estácio
